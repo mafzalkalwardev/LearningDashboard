@@ -1,0 +1,20 @@
+# Build outputs
+bin/
+obj/
+
+# Local database (do not commit)
+app.db
+
+# User-specific files
+*.csproj.user
+*.user
+*.suo
+*.userosscache
+
+# VS / VS Code
+.vs/
+.vscode/
+
+# Logs
+*.log
+
