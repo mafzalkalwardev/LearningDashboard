@@ -1,4 +1,40 @@
-# SimpleLearningDashboard
+<div align="center">
+
+# 🚀 Learningdashboard
+
+**A .NET 8 Blazor Server learning dashboard that tracks course progress, includes daily quotes, and persists data using SQLite.**
+
+Documented · MIT licensed · Maintained
+
+![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+
+[Features](#-features) · [Quick Start](#-quick-start) · [Screenshots](#-screenshots) · [Contributing](CONTRIBUTING.md)
+
+</div>
+
+---
+
+## 🖼 Screenshots
+
+![Learningdashboard screenshot](docs/screenshots/placeholder.svg)
+
+*Replace `docs/screenshots/placeholder.svg` with real app screenshots.*
+
+---
+
+## 🐍 Contribution graph
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/LearningDashboard/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/LearningDashboard/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/LearningDashboard/output/snake.svg" />
+</picture>
+
+
+---
 
 <!-- SEO -->
 .NET 8 | ASP.NET Core | Blazor Server | Learning Dashboard | Course Progress Tracker | SQLite | Interactive Server Components
