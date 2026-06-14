@@ -144,3 +144,7 @@ The app will auto-create the SQLite database (`app.db`) on first run.
 
 MIT
 
+## Screenshots
+
+![LearningDashboard dashboard](docs/screenshots/app.png)
+
