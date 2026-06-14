@@ -147,4 +147,3 @@ MIT
 ## Screenshots
 
 ![LearningDashboard dashboard](docs/screenshots/app.png)
-
