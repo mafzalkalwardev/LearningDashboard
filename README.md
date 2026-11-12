@@ -50,20 +50,20 @@ A **.NET 8 (ASP.NET Core Blazor Server)** learning dashboard that tracks **cours
 ### Trophy cards (stats)
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=flat&no-frame=true" alt="Trophies" />
 </div>
 
 ### Project stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </div>
 
 ### Activity graph
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -93,7 +93,7 @@ A **.NET 8 (ASP.NET Core Blazor Server)** learning dashboard that tracks **cours
 ## Profile views
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
